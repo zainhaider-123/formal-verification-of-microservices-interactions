@@ -1,0 +1,12 @@
+SpringerLink Advanced Search
+
+("microservices" OR "microservice")
+AND ("modular monolith" OR "modulith" OR "consolidation"
+     OR "architectural refactoring" OR "service merging")
+AND ("case study" OR "empirical" OR "experience report" OR "migration")
+
+Discipline filter: Computer Science
+Date filter: 2020-2026
+Content type: Article, Conference Paper
+
+Records returned: 384

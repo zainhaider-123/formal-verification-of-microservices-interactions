@@ -1,0 +1,50 @@
+CANONICAL SEARCH STRING
+Last updated: 2026-03-02
+Locked for execution: 2026-04-01
+Peer-reviewed using PRESS 2015 checklist: 2026-03-12
+
+================================================================
+Boolean structure: (Block 1) AND (Block 2) AND (Block 3)
+================================================================
+
+BLOCK 1 - Microservices terminology
+(
+  "microservices" OR "microservice" OR "micro-service" OR "micro-services"
+  OR "distributed services" OR "service-oriented architecture"
+  OR "SOA"
+)
+
+AND
+
+BLOCK 2 - Consolidation / modular monolith terminology
+(
+  "modular monolith" OR "modulith" OR "monolith"
+  OR "consolidation" OR "merging services" OR "service merging"
+  OR "re-monolith" OR "macro-service" OR "macro-services"
+  OR "re-integration" OR "de-composition reversal"
+  OR "architectural refactoring"
+)
+
+AND
+
+BLOCK 3 - Empirical study terminology
+(
+  "case study" OR "case studies" OR "empirical"
+  OR "experience report" OR "industrial experience"
+  OR "migration" OR "refactoring" OR "mining study"
+  OR "survey" OR "interview study"
+)
+
+================================================================
+Filters
+================================================================
+
+Date range: 2020-01-01 to 2026-06-30
+Languages: English
+Document types: Journal article OR Conference proceedings paper
+Venue rank: CORE A* or A (manual filter post-retrieval)
+
+Note: PRESS peer review completed 2026-03-12. Two suggestions adopted:
+- Added "modulith" to Block 2 (gaining traction as a term)
+- Added "architectural refactoring" to Block 2 (catches broader refactoring
+  work that includes consolidation as a sub-case)

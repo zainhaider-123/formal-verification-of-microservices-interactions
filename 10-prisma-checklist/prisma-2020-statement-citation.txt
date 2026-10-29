@@ -1,0 +1,31 @@
+PRISMA 2020 STATEMENT — CITATION INFORMATION
+
+When citing PRISMA 2020 in your manuscript, use the following references:
+
+==========================================================
+Primary statement
+==========================================================
+
+Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoffmann TC, Mulrow CD,
+Shamseer L, Tetzlaff JM, Akl EA, Brennan SE, Chou R, Glanville J,
+Grimshaw JM, Hróbjartsson A, Lalu MM, Li T, Loder EW, Mayo-Wilson E,
+McDonald S, McGuinness LA, Stewart LA, Thomas J, Tricco AC, Welch VA,
+Whiting P, Moher D. The PRISMA 2020 statement: an updated guideline for
+reporting systematic reviews. BMJ. 2021;372:n71.
+doi:10.1136/bmj.n71
+
+==========================================================
+Explanation and Elaboration document
+==========================================================
+
+Page MJ, Moher D, Bossuyt PM, et al. PRISMA 2020 explanation and
+elaboration: updated guidance and exemplars for reporting systematic
+reviews. BMJ 2021;372:n160. doi:10.1136/bmj.n160
+
+==========================================================
+Where to find official resources
+==========================================================
+
+PRISMA Statement website: https://www.prisma-statement.org/
+Flow diagram tool:        https://estech.shinyapps.io/prisma_flowdiagram/
+Checklist downloads:      https://www.prisma-statement.org/prisma-2020

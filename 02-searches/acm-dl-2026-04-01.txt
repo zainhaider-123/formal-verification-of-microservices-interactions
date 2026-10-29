@@ -1,0 +1,14 @@
+ACM Digital Library Advanced Search
+Query field: Abstract
+
+[Abstract: microservices OR Abstract: microservice OR Abstract: "service-oriented architecture"]
+AND
+[Abstract: "modular monolith" OR Abstract: modulith OR Abstract: consolidation
+ OR Abstract: "service merging" OR Abstract: "architectural refactoring"]
+AND
+[Abstract: "case study" OR Abstract: empirical OR Abstract: "experience report"
+ OR Abstract: migration OR Abstract: refactoring]
+
+Filters: Publication Date 2020-2026, Research Article, English
+
+Records returned: 193

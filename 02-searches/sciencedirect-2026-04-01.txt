@@ -1,0 +1,12 @@
+ScienceDirect Expert Search
+
+Note: ScienceDirect has restrictive Boolean limits. Search simplified.
+
+Title, abstract, keywords:
+(microservices OR microservice)
+AND ("modular monolith" OR consolidation OR refactoring)
+AND ("case study" OR empirical OR migration)
+
+Filters: 2020-2026, Research articles + Conference abstracts, English
+
+Records returned: 156

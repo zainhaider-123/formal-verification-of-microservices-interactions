@@ -1,0 +1,8 @@
+PLACEHOLDER
+
+In a real project, the OSF Registries confirmation PDF would be saved here
+after registering the protocol at https://osf.io/registries
+
+Example DOI format: 10.17605/OSF.IO/XXXXX
+Registration date: YYYY-MM-DD
+Registration title: [matches protocol title exactly]

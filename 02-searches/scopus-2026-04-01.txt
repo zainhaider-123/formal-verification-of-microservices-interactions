@@ -1,0 +1,16 @@
+Scopus Advanced Search
+
+TITLE-ABS-KEY(
+  (microservices OR microservice OR "service-oriented architecture")
+  AND
+  ("modular monolith" OR modulith OR consolidation
+   OR "service merging" OR "architectural refactoring" OR "macro-service")
+  AND
+  ("case study" OR empirical OR "experience report"
+   OR migration OR refactoring OR "interview study")
+)
+AND PUBYEAR > 2019 AND PUBYEAR < 2027
+AND (LIMIT-TO(LANGUAGE,"English"))
+AND (LIMIT-TO(DOCTYPE,"ar") OR LIMIT-TO(DOCTYPE,"cp"))
+
+Records returned: 847

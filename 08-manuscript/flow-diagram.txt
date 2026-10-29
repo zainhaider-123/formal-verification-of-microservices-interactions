@@ -1,0 +1,66 @@
+PRISMA 2020 FLOW DIAGRAM — DATA
+
+This file contains the numbers needed to generate Figure 1 (PRISMA 2020
+flow diagram). Generate the actual diagram using:
+
+  https://estech.shinyapps.io/prisma_flowdiagram/
+
+==============================================================
+IDENTIFICATION
+==============================================================
+
+Records identified from databases:
+  - ACM Digital Library:    193
+  - IEEE Xplore:            268
+  - Scopus:                 847
+  - Web of Science:         412
+  - ScienceDirect:          156
+  - SpringerLink:           384
+  TOTAL identified:       2,260
+
+Records identified from other methods (registers, websites, etc.):
+  - None (this review used databases only)
+
+==============================================================
+SCREENING
+==============================================================
+
+Records before screening:                  2,260
+Records removed before screening:
+  - Duplicate records:                       662
+  - Records marked ineligible by
+    automation tools:                          0
+  - Records removed for other reasons:        0
+
+Records screened (title/abstract):         1,598
+Records excluded at title/abstract:        1,385
+
+Reports sought for retrieval:                213
+Reports not retrieved:                         5
+
+Reports assessed for eligibility:            208
+Reports excluded with reasons:               185
+  - Not empirical:                            32
+  - Wrong direction (decomposition):          41
+  - Off-topic / off-concept:                  28
+  - Does not report consolidation case:       35
+  - Insufficient methodological detail:       18
+  - Secondary study (survey, review):         17
+  - Short paper / under 4 pages:               9
+  - Workshop paper:                            5
+
+==============================================================
+INCLUDED
+==============================================================
+
+Studies included in review:                   23
+Reports of included studies:                  23
+
+==============================================================
+NOTE: PURE PRISMA 2020 — NO SNOWBALLING
+==============================================================
+
+This review used database searching only. The PRISMA 2020 flow diagram
+should be generated using the standard template without "studies from
+other methods" boxes, since no citation chasing or snowballing was
+performed per the protocol.

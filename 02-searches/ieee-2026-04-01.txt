@@ -1,0 +1,14 @@
+IEEE Xplore Command Search
+Field tags: Document Title, Abstract, Author Keywords
+
+(("Abstract":microservices OR "Abstract":microservice)
+ AND
+ ("Abstract":"modular monolith" OR "Abstract":modulith
+  OR "Abstract":consolidation OR "Abstract":"architectural refactoring")
+ AND
+ ("Abstract":"case study" OR "Abstract":empirical
+  OR "Abstract":"experience report" OR "Abstract":migration))
+
+Filters: 2020-2026, Conferences + Journals, English
+
+Records returned: 268
