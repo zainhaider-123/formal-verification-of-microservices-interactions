@@ -2,11 +2,19 @@ ScienceDirect Expert Search
 
 Note: ScienceDirect has restrictive Boolean limits. Search simplified.
 
-Title, abstract, keywords:
-(microservices OR microservice)
-AND ("modular monolith" OR consolidation OR refactoring)
-AND ("case study" OR empirical OR migration)
+(microservice OR microservices OR "micro-service" OR "micro-services")
+AND
+("formal verification" OR "formal methods" OR "formal modelling"
+OR "model checking" OR "theorem proving")
 
-Filters: 2020-2026, Research articles + Conference abstracts, English
+(microservice OR microservices OR "micro-service" OR "micro-services")
+AND
+("Petri net" OR "process calculus" OR "process calculi"
+OR "session type" OR "behavioural type")
 
-Records returned: 156
+(microservice OR microservices OR "micro-service" OR "micro-services")
+AND
+("formal modeling" OR "behavioral type" OR "temporal logic"
+OR "runtime verification" OR "satisfiability modulo theories")
+
+Records returned: 566

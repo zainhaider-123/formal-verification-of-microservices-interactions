@@ -1,14 +1,33 @@
 IEEE Xplore Command Search
 Field tags: Document Title, Abstract, Author Keywords
 
-(("Abstract":microservices OR "Abstract":microservice)
- AND
- ("Abstract":"modular monolith" OR "Abstract":modulith
-  OR "Abstract":consolidation OR "Abstract":"architectural refactoring")
- AND
- ("Abstract":"case study" OR "Abstract":empirical
-  OR "Abstract":"experience report" OR "Abstract":migration))
+(
+"All Metadata":microservice*
+OR "All Metadata":"micro-service"
+OR "All Metadata":"micro-services"
+OR "All Metadata":"micro service"
+OR "All Metadata":"micro services"
+)
+AND
+(
+"All Metadata":"formal verification"
+OR "All Metadata":"formal methods"
+OR "All Metadata":"formal modelling"
+OR "All Metadata":"formal modeling"
+OR "All Metadata":"model checking"
+OR "All Metadata":"theorem proving"
+OR "All Metadata":"Petri net"
+OR "All Metadata":"Petri nets"
+OR "All Metadata":"process calculus"
+OR "All Metadata":"process calculi"
+OR "All Metadata":"session type"
+OR "All Metadata":"session types"
+OR "All Metadata":"behavioural types"
+OR "All Metadata":"behavioral types"
+OR "All Metadata":"temporal logic"
+OR "All Metadata":"runtime verification"
+OR "All Metadata":"satisfiability modulo theories"
+OR "All Metadata":SMT
+)
 
-Filters: 2020-2026, Conferences + Journals, English
-
-Records returned: 268
+Records returned: 141
