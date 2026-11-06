@@ -1,14 +1,16 @@
 ACM Digital Library Advanced Search
 Query field: Abstract
 
-[Abstract: microservices OR Abstract: microservice OR Abstract: "service-oriented architecture"]
+(microservice* OR "micro-service" OR "micro-services" OR "micro service" OR "micro services")
 AND
-[Abstract: "modular monolith" OR Abstract: modulith OR Abstract: consolidation
- OR Abstract: "service merging" OR Abstract: "architectural refactoring"]
+("formal verification" OR "formal methods" OR "formal modelling" OR "formal modeling"
+OR "model checking" OR "theorem proving" OR "Petri net" OR "Petri nets"
+OR "process calculus" OR "process calculi" OR "session type" OR "session types"
+OR "behavioural types" OR "behavioral types" OR "temporal logic"
+OR "runtime verification" OR " satisfiability modulo theories" OR SMT)
 AND
-[Abstract: "case study" OR Abstract: empirical OR Abstract: "experience report"
- OR Abstract: migration OR Abstract: refactoring]
+(interact* OR communicat* OR coordinat* OR compos* OR choreograph*
+OR orchestrat* OR protocol* OR messag* OR workflow* OR transaction*
+OR deadlock*)
 
-Filters: Publication Date 2020-2026, Research Article, English
-
-Records returned: 193
+Records returned: 971

@@ -1,16 +1,15 @@
 Scopus Advanced Search
 
 TITLE-ABS-KEY(
-  (microservices OR microservice OR "service-oriented architecture")
+  (microservice* OR "micro-service*" OR "micro service*")
   AND
-  ("modular monolith" OR modulith OR consolidation
-   OR "service merging" OR "architectural refactoring" OR "macro-service")
-  AND
-  ("case study" OR empirical OR "experience report"
-   OR migration OR refactoring OR "interview study")
+  ("formal verification" OR "formal methods"
+   OR "formal modelling" OR "formal modeling"
+   OR "model checking" OR "theorem proving"
+   OR "Petri net*" OR "process calculus" OR "process calculi"
+   OR "session type*" OR "behavioural type*" OR "behavioral type*"
+   OR "temporal logic" OR "runtime verification"
+   OR "satisfiability modulo theories" OR SMT)
 )
-AND PUBYEAR > 2019 AND PUBYEAR < 2027
-AND (LIMIT-TO(LANGUAGE,"English"))
-AND (LIMIT-TO(DOCTYPE,"ar") OR LIMIT-TO(DOCTYPE,"cp"))
 
-Records returned: 847
+Records returned: 217
