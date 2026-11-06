@@ -87,9 +87,8 @@ Six bibliographic databases will be searched:
 1. ACM Digital Library
 2. IEEE Xplore
 3. Scopus
-4. Web of Science Core Collection
-5. ScienceDirect (Elsevier)
-6. SpringerLink
+4. ScienceDirect (Elsevier)
+5. SpringerLink
 
 ### 3.3 Search strategy (PRISMA-P item 10 / PRISMA 2020 item 7)
 
